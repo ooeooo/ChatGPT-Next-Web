@@ -17,6 +17,10 @@
                 {
                     "key": "Host",
                     "value": "$http_host"
+                },
+                {
+                    "key": "access-control-allow-origin",
+                    "value": "*"
                 }
             ]
         }
